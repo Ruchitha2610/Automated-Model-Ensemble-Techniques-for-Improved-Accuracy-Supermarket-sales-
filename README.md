@@ -3,3 +3,7 @@ The project, **"Automated Model Ensemble Techniques for Improved Accuracy: Combi
 The **Supermarket Sales Dataset** was chosen for its comprehensive transactional details, including customer demographics, product categories, and payment methods. Its diversity and granularity make it ideal for evaluating ensemble methods, enabling deeper analysis of purchasing patterns.
 
 This project highlights how ensemble learning ensures better generalization and higher accuracy, empowering retailers to make informed decisions, optimize inventory management, and enhance overall business performance.
+
+
+
+Video Link: https://drive.google.com/file/d/1lqGyUhTIZKUChi0cFNE9bl65eba47PdZ/view?usp=drivesdk
